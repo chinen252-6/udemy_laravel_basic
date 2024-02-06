@@ -20,5 +20,6 @@ class RouteShopSeeder extends Seeder
             [ 'route_id' => 1, 'shop_id' => 2 ],
             [ 'route_id' => 2, 'shop_id' => 1 ],
             ]);
-    }
+   
+        }
 }
